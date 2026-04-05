@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/DeepShetle/leetcode_journey/tree/master/0037-sudoku-solver) |
 | [0473-matchsticks-to-square](https://github.com/DeepShetle/leetcode_journey/tree/master/0473-matchsticks-to-square) |
 ## Dynamic Programming
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/DeepShetle/leetcode_journey/tree/master/0037-sudoku-solver) |
 | [0473-matchsticks-to-square](https://github.com/DeepShetle/leetcode_journey/tree/master/0473-matchsticks-to-square) |
 ## Bit Manipulation
 |  |
@@ -23,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/DeepShetle/leetcode_journey/tree/master/0473-matchsticks-to-square) |
+## Hash Table
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/DeepShetle/leetcode_journey/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/DeepShetle/leetcode_journey/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
