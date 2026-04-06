@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/DeepShetle/leetcode_journey/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/DeepShetle/leetcode_journey/tree/master/0037-sudoku-solver) |
 | [0473-matchsticks-to-square](https://github.com/DeepShetle/leetcode_journey/tree/master/0473-matchsticks-to-square) |
 ## Dynamic Programming
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/DeepShetle/leetcode_journey/tree/master/0037-sudoku-solver) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/DeepShetle/leetcode_journey/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/DeepShetle/leetcode_journey/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
