@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/DeepShetle/leetcode_journey/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/DeepShetle/leetcode_journey/tree/master/0037-sudoku-solver) |
+| [0169-majority-element](https://github.com/DeepShetle/leetcode_journey/tree/master/0169-majority-element) |
 | [0473-matchsticks-to-square](https://github.com/DeepShetle/leetcode_journey/tree/master/0473-matchsticks-to-square) |
 ## Dynamic Programming
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/DeepShetle/leetcode_journey/tree/master/0037-sudoku-solver) |
+| [0169-majority-element](https://github.com/DeepShetle/leetcode_journey/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -42,4 +44,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DeepShetle/leetcode_journey/tree/master/0011-container-with-most-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/DeepShetle/leetcode_journey/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/DeepShetle/leetcode_journey/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/DeepShetle/leetcode_journey/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
