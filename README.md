@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/DeepShetle/leetcode_journey/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/DeepShetle/leetcode_journey/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/DeepShetle/leetcode_journey/tree/master/0169-majority-element) |
+| [0322-coin-change](https://github.com/DeepShetle/leetcode_journey/tree/master/0322-coin-change) |
 | [0473-matchsticks-to-square](https://github.com/DeepShetle/leetcode_journey/tree/master/0473-matchsticks-to-square) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/DeepShetle/leetcode_journey/tree/master/0322-coin-change) |
 | [0473-matchsticks-to-square](https://github.com/DeepShetle/leetcode_journey/tree/master/0473-matchsticks-to-square) |
 ## Backtracking
 |  |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DeepShetle/leetcode_journey/tree/master/0002-add-two-numbers) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/DeepShetle/leetcode_journey/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
