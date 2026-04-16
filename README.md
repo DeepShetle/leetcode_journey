@@ -14,11 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/DeepShetle/leetcode_journey/tree/master/0022-generate-parentheses) |
 | [0322-coin-change](https://github.com/DeepShetle/leetcode_journey/tree/master/0322-coin-change) |
 | [0473-matchsticks-to-square](https://github.com/DeepShetle/leetcode_journey/tree/master/0473-matchsticks-to-square) |
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/DeepShetle/leetcode_journey/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/DeepShetle/leetcode_journey/tree/master/0037-sudoku-solver) |
 | [0473-matchsticks-to-square](https://github.com/DeepShetle/leetcode_journey/tree/master/0473-matchsticks-to-square) |
 ## Bit Manipulation
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/DeepShetle/leetcode_journey/tree/master/0322-coin-change) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/DeepShetle/leetcode_journey/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
